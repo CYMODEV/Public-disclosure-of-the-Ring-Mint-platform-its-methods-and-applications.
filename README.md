@@ -1,7 +1,7 @@
 # Public-disclosure-of-the-Ring-Mint-platform-its-methods-and-applications.
 A tangible, cryptographically signed, visually verifiable tokens bridging digital and physical finance.
 # Ring Mint — Secure Printable Token Platform
-**Public Disclosure (Patent Pending)**
+**Public Disclosure **
 
 ## Abstract
 Ring Mint is a platform for minting **secure, printable, cryptographically signed tokens** that function as bearer or named instruments. Each token combines a **canonical signed payload** with a **visual trust layer**: a deterministic **chromatic ring glyph**, pixelated hologram overlays, and human‑readable fallback codes. Tokens can be printed, displayed on screens, or transmitted optically, acoustically, or via NFC. They are verifiable offline and redeemable online, bridging digital ledgers with physical workflows.
